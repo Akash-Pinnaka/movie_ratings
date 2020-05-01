@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594159210173",
+    "firebase_url": "https://movie-ratings-fb11b.firebaseio.com",
+    "project_id": "movie-ratings-fb11b",
+    "storage_bucket": "movie-ratings-fb11b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594159210173:android:5215b7a83fd72a1f3031d4",
+        "android_client_info": {
+          "package_name": "com.akashpinnaka.movieratings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594159210173-il85fg8m6k7v4rrdrg5teh7gqg9ur4n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByvZWYrmsLiJgOPoxWlhb7DNiZp1I1oHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594159210173-il85fg8m6k7v4rrdrg5teh7gqg9ur4n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
